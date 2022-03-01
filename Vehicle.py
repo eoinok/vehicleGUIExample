@@ -1,6 +1,6 @@
 class Vehicle():
     def __init__(self,arg1,arg2,arg3,arg4):
-        self.__regNum=arg1
+        self.__reg_num=arg1
         self.__make=arg2
         self.__model=arg3
         self.__cO2_emissions = arg4
