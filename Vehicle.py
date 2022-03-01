@@ -15,4 +15,4 @@ class Vehicle():
         return tax
 
     def __str__(self):
-        return self.__regNum + " " + self.__make + " " + self.__model
+        return self.__reg_num + " " + self.__make + " " + self.__model
