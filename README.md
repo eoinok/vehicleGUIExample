@@ -18,11 +18,11 @@ The getters should return the values associated with the attributes they refer t
 The \__str\__() function should return the reg number, make and model of the vehicle with spaces in between
 
 # Part 2
-Implement the following Simple Gui which gets data from the user about a Vehicle
+Implement the following Simple Gui which gets data from the user about a Vehicle. Use the MyFirstGUI.py class from moodle as a starting point and modify it so that the labels read correctly and there is an additional Label and Entry field for the cO2_emissions
 
 ![alt text](VehicleGUI.png)
 
 
 # Part 3
-Create a function which will be called when the button is pressed. The function should instantiate a Vehicle object based on the data input by the user. The function should then out_put the annual car tax for the Vehicle
+Create a function which will be called when the button is pressed. The function should instantiate a Vehicle object based on the data input by the user. The function should then out_put the annual car tax for the Vehicle. Note that self.entry.get() will return a string and the Vehicle class __init__() (constructor) function expects to get three strings and a float when instantiatiating a Vehicle Class. This means you will have to convert the cO2 from a string to a float before passing it to the constructor.
 
