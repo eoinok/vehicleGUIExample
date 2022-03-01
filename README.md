@@ -19,7 +19,7 @@ The \__str\__() function should return the reg number, make and model of the veh
 
 # Part 2
 Implement the following Simple Gui which gets data from the user about a Vehicle
-![alt text](GUI.png)
+![alt text](VehicleGUI.png)
 
 # Part 3
 Create a function which will be called when the button is pressed. The function should instantiate a Vehicle object based on the data input by the user. The function should then out_put the annual car tax for the Vehicle
