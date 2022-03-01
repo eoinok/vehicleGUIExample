@@ -2,7 +2,7 @@
 
 Calculating the annual tax on your Vehicle in Ireland is determined by the amount of carbon dioxide emissions your Vehicle emits.
 
-Google the rules for car tax in ireland to figure out how to calculate the annual tax based on the cars CO2 emissions. 
+The rules for car tax in ireland to figure out how to calculate the annual tax based on the cars CO2 emissions are laid out here https://www.gov.ie/en/publication/41c9cc-motor-tax-rates/#motor-tax-rates-2021
 
 To simplify the exercise we will use a more straightforward version of the rule.
 
